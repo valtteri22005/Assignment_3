@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/valtteri22005/Assignment_3/static/css/main.ff02f4b5.css",
-    "main.js": "/valtteri22005/Assignment_3/static/js/main.3b488c6c.js",
-    "static/js/453.f4fbaa6d.chunk.js": "/valtteri22005/Assignment_3/static/js/453.f4fbaa6d.chunk.js",
-    "static/media/panda.jpg": "/valtteri22005/Assignment_3/static/media/panda.b576f5f1c4f5952e8e48.jpg",
-    "index.html": "/valtteri22005/Assignment_3/index.html",
-    "main.ff02f4b5.css.map": "/valtteri22005/Assignment_3/static/css/main.ff02f4b5.css.map",
-    "main.3b488c6c.js.map": "/valtteri22005/Assignment_3/static/js/main.3b488c6c.js.map",
-    "453.f4fbaa6d.chunk.js.map": "/valtteri22005/Assignment_3/static/js/453.f4fbaa6d.chunk.js.map"
+    "main.css": "/Assignment_3/static/css/main.ff02f4b5.css",
+    "main.js": "/Assignment_3/static/js/main.84385f83.js",
+    "static/js/453.f4fbaa6d.chunk.js": "/Assignment_3/static/js/453.f4fbaa6d.chunk.js",
+    "static/media/panda.jpg": "/Assignment_3/static/media/panda.b576f5f1c4f5952e8e48.jpg",
+    "index.html": "/Assignment_3/index.html",
+    "main.ff02f4b5.css.map": "/Assignment_3/static/css/main.ff02f4b5.css.map",
+    "main.84385f83.js.map": "/Assignment_3/static/js/main.84385f83.js.map",
+    "453.f4fbaa6d.chunk.js.map": "/Assignment_3/static/js/453.f4fbaa6d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ff02f4b5.css",
-    "static/js/main.3b488c6c.js"
+    "static/js/main.84385f83.js"
   ]
 }
